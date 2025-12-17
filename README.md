@@ -1,6 +1,6 @@
 # Popify Privacy Policy
 
-### What data does Ofira collect ?
+### What data does Popify collect ?
 
 As there is not much functionality to the bot yet, we do not really need to store any actual data.
 We only store one basic thing to make sure that everything functions properly.
