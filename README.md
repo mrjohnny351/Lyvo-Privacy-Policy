@@ -1,6 +1,6 @@
-# Popify Privacy Policy
+# Lyvo Privacy Policy
 
-### What data does Popify collect ?
+### What data does Lyvo collect ?
 
 As there is not much functionality to the bot yet, we do not really need to store any actual data.
 We only store one basic thing to make sure that everything functions properly.
